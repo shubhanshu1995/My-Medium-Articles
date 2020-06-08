@@ -1,5 +1,5 @@
 # My-Medium-Articles
-========
+---
 ## Welcome to my Medium Articles repository !!
 ---
 ## 1. [Heap Sort Explained with C++ implementation](https://medium.com/@shubhanshu1995/heap-sort-explained-with-c-implementation-85e4fe3f5279)
